@@ -37,9 +37,9 @@ Perform HTTP bruteforce attacks on login forms with this Python script. The scri
     -e or --error: Optional. Custom error message to detect failed login attempts.
 
 ## Python Module Installation
-[PyPi Module Link](https://pypi.org/project/http-bruteforce/1.0/)
+[PyPi Module Link]( https://pypi.org/project/bruteforce-script/1.0/)
 ```bash
-pip install http_bruteforce
+pip install bruteforce-script
 ```
 
 ## Disclaimer
