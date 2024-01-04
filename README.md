@@ -47,5 +47,6 @@ python script.py -ul <user_wordlist> -pl <password_wordlist> -t <target_url> -u 
 
 ## Disclaimer
 This script is intended for educational and ethical purposes only. Unauthorized use of this script to perform malicious activities is strictly prohibited. The developers are not responsible for any misuse or damage caused by this script.
+ 
 
  
