@@ -6,10 +6,12 @@ BruteForce Python script designed as a Brute-Force Attack Tool, specifically cra
 ## Prerequesties
 
 Python 3.x
+
 Required Libraries
+
 Wordlist files
 
-## installation
+## Installation
 
  Before using PyBruteForce, you need to ensure that the required dependencies are installed. Open a terminal and execute the following command:
 
@@ -41,9 +43,6 @@ python script.py -ul <user_wordlist> -pl <password_wordlist> -t <target_url> -u 
 ## Screeenshots
  ![WhatsApp Image 2024-01-04 at 11 34 37_4dfce529](https://github.com/M0hamedsh0aib/Brute_Force/assets/108838188/cf5c796e-2364-45b9-b7bb-6c9bef2e2a28)
  ![WhatsApp Image 2024-01-04 at 11 34 37_c0f22c20](https://github.com/M0hamedsh0aib/Brute_Force/assets/108838188/24ec9a53-0e1d-4248-a018-2e7693c5271d)
-
-
-
 
 ## Disclaimer
 This script is intended for educational and ethical purposes only. Unauthorized use of this script to perform malicious activities is strictly prohibited. The developers are not responsible for any misuse or damage caused by this script.
