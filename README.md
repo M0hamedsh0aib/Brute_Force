@@ -5,13 +5,13 @@ BruteForce Python script designed as a Brute-Force Attack Tool, specifically cra
 
 ## installation
 
-Before using BruteForce, you need to ensure that the required dependencies are installed.
+ Before using PyBruteForce, you need to ensure that the required dependencies are installed. Open a terminal and execute the following command:
 
- pip install requests argparse termcolor
+bash
 
+pip install requests argparse termcolor
 
 This command installs the necessary Python libraries: requests for HTTP requests, argparse for handling command-line arguments, and termcolor for enhancing console output.
-Python Module Installation
 
 PyPi Module Link
 
