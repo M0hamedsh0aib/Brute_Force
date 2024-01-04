@@ -31,8 +31,11 @@ pip install bruteforce-script
 ## Features
 
    HTTP Methods: Supports both GET and POST methods for login attempts.
+   
    Wordlist Input: Utilizes wordlists for usernames and passwords for comprehensive bruteforcing.
+   
    Error Handling: Customizable error message handling to identify failed login attempts.
+   
    Visual Interface: Provides a visually appealing banner for user interaction.
 
 ## Run Command
