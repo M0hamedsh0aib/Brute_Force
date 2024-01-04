@@ -1,8 +1,20 @@
-## Brute_Force
-## HTTP Bruteforce Script
+## BruteForce Script
+## Discription
 
-Perform HTTP bruteforce attacks on login forms with this Python script. The script supports both GET and POST methods and utilizes provided wordlists for usernames and passwords.
- 
+BruteForce Python script designed as a Brute-Force Attack Tool, specifically crafted for security testing purposes. This application enables users to assess the robustness of login systems by systematically trying different combinations of usernames and passwords against a target URL. The script supports both GET and POST HTTP methods, offering versatility in evaluating various login systems.
+
+## intsllation
+
+Before using BruteForce, you need to ensure that the required dependencies are installed.
+
+pip install requests argparse termcolor
+
+This command installs the necessary Python libraries: requests for HTTP requests, argparse for handling command-line arguments, and termcolor for enhancing console output.
+Python Module Installation
+
+PyPi Module Link
+
+pip install bruteforce-script
                                                                                                          
 ## Features
 
